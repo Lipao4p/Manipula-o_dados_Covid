@@ -6,8 +6,8 @@
 
 
 <h2>✏️ Visão Geral:</h2>
-Pondo em pratica os conhecimentos em Ciencia de Dados, fiz a importação do Banco de Pesquisas de Infomrm,açoes Basicas Municipais -  MUNIC , que faz um levantamento pormenorizado de registros administrativos sobre a estrutura, a dinâmica e o funcionamento das instituições públicas municipais, em especial a prefeitura, compreendendo, também, diferentes aspectos das políticas públicas setoriais sob responsabilidade dessa esfera governamental.
-Foi analisado os numeros da covid no estado da Bahia no ano de 2021.
+Pondo em pratica os conhecimentos em Ciencia de Dados, fiz a importação do Banco de Pesquisas de Infomrmações Basicas Municipais -  MUNIC , que faz um levantamento pormenorizado de registros administrativos sobre a estrutura, a dinâmica e o funcionamento das instituições públicas municipais, em especial a prefeitura, compreendendo, também, diferentes aspectos das políticas públicas setoriais sob responsabilidade dessa esfera governamental.
+Foi analisado os números da covid no estado da Bahia no ano de 2021.
 
 <h2>💻 Tecnologias:</h2>
 Excel , Python
